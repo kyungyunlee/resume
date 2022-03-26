@@ -11,10 +11,17 @@ I play drums 🥁 and enjoy sports as a hobby, and am an animal lover 🐾, inte
 
 ### Experience 
 
-* Weverse Company, Seoul (2021.07 - )
+* Gaudio Lab, Seoul (2022.03 - )
+  * AI/Audio scientist 
+* Weverse Company, Seoul (2021.07 - 2022.03)
   * Data engineer at Data Platform team 
+  * Developed monitors for Databricks jobs and Tableau dashboards/users 
+  * Migrated and refactored log streaming pipeline from parquet to delta format 
+  * Initiated CI/CD process for Databricks
+  * Frameworks/language: Databricks, AWS, Kafka, Spark, Scala  
 * Deezer, Paris (2019.04 - 2019.09)
   * Research intern at R&D team 
+  * Topic: Weakly supervised instrument detection
 * Naver, Seongnam (2018.07 - 2018.08)
   * Research intern at Clova AI
 * ECCO Design, NYC (2016.01 - 2016.04)
